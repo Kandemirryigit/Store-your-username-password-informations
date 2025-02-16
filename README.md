@@ -2,9 +2,9 @@
 
 <h1>How Looks?</h1>
 
-![Ekran görüntüsü 2025-02-16 164014](https://github.com/user-attachments/assets/1639389c-2d7c-4fac-9655-5a93f3b3a8ce)
+![Ekran görüntüsü 2025-02-16 165407](https://github.com/user-attachments/assets/cec0b3fa-773c-4911-97e9-1b6ad14affed)
 
-![Ekran görüntüsü 2025-02-16 164032](https://github.com/user-attachments/assets/bf53b700-63d6-442f-919f-65a8c98d846a)
+![Ekran görüntüsü 2025-02-16 165420](https://github.com/user-attachments/assets/24f11f43-7173-4724-b828-8ee9ba41e9ac)
 
 -The final program looks like this.
 <hr/>
