@@ -12,5 +12,5 @@
 <h1>How works?</h1>
 
 -You can directly add your website, username or email and password informations and this informations is going to store in a file.<br/>
--Maybe you want to create a new password and if you click create password your password is going to generate and if you want you can use that password.<br/>
+-Maybe you want to create a new password and if you click generate password your password is going to generate and if you want you can use that password.<br/>
 -If you want to learn your informations you can write your website's name and if you click seach you can learn other informations.(username/email and password)<br/>
